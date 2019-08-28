@@ -6,6 +6,8 @@ Here in this project, i will cluster data points based on their respective credi
 
 Using Clustering, unsupervised machine learning, I have clustered the data into number of clusters.
 
+Therefore, with the help visualising the data, the company may able to group the customers based on their respective similarity (Group segregation)
+
 Image 1 
 
 <img width="1301" alt="Clustering 1" src="https://user-images.githubusercontent.com/54368368/63535780-d09e6400-c544-11e9-8ebe-f05e55f04402.png">
